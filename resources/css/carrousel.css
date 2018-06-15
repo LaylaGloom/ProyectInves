@@ -1,0 +1,13 @@
+.carousel{
+  background-color: #142144;
+  max-height: 550px;
+}
+.tamCar{
+  max-height:550px;
+}
+.carousel-caption{
+  bottom: 10%;
+}
+.center-block{
+  margin: 0 auto;
+}

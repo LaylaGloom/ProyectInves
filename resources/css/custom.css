@@ -1,0 +1,89 @@
+:root{
+  --bc-txgrayc:#736E6E;
+}
+.navbar-light {
+  background-color: #a2c600;
+  border-color: #465A60;
+  box-shadow: -2px 2px 3px #4A3B3B;
+}
+.navbar-light .navbar-brand {
+  color: #ffffff !important;
+}
+.navbar-light .navbar-brand:hover,
+.navbar-light .navbar-brand:focus {
+  text-shadow: 1px -1px 0 #e7e2db;
+}
+
+.navbar-light .navbar-nav > li > a {
+  color: #ffffff !important;
+}
+.navbar-light .navbar-nav > li > a:hover,
+.navbar-light .navbar-nav > li > a:focus {
+  color: #ffffff;
+}
+.navbar-light .navbar-nav > .active > a,
+.navbar-light .navbar-nav > .active > a:hover,
+.navbar-light .navbar-nav > .active > a:focus {
+  color: #e6e2db;
+  background-color: #318680;
+  box-shadow: -1px 1px 1px 1px  #465A60;
+}
+.navbar-light .navbar-nav > .open > a,
+.navbar-light .navbar-nav > .open > a:hover,
+.navbar-light .navbar-nav > .open > a:focus {
+  color: #ece9f0;
+  background-color: #2980b9;
+}
+.navbar-light .navbar-toggle {
+  border-color: #2980b9;
+}
+.navbar-light .navbar-toggle:hover,
+.navbar-light .navbar-toggle:focus {
+  background-color: #2980b9;
+}
+.navbar-light .navbar-toggle .icon-bar {
+  background-color: #eceff1;
+}
+.navbar-light .navbar-collapse,
+.navbar-light .navbar-form {
+  border-color: #ecf0f1;
+}
+.navbar-light .navbar-link {
+  color: #ecf0f1;
+}
+.navbar-light .navbar-link:hover {
+  color: #ecdbff;
+}
+
+@media (max-width: 767px) {
+  .navbar-light .navbar-nav .open .dropdown-menu > li > a {
+    color: #ecf0f1;
+  }
+  .navbar-light .navbar-nav .open .dropdown-menu > li > a:hover,
+  .navbar-light .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #ecdbff;
+  }
+  .navbar-light .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar-light .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .navbar-light .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #ecdbff;
+    background-color: #2980b9;
+  }
+}
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 6rem;
+  margin-top: 4rem;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+.viewmore{
+  color:var(--bc-txgrayc);
+}
