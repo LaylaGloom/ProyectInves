@@ -1,9 +1,10 @@
 <?php include ('head.php'); ?>
 <?php include ('menu.php'); ?>
-<section class="container mt-lg-2">
-  <div class="row mb-lg-2">
+<section class="container">
+  <div class="row">
     <h5 class="col-md-12 text-center">Encuentra los horarios del camion recolector de basura de tú comunidad.</h5>
   </div>
+  <?php include('buscarcamion.php'); ?>
   <div class="row">
     <div class="col-2 bg-warning border">
       <h6>Tipo de Servicio</h6>

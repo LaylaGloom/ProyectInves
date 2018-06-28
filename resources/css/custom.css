@@ -1,5 +1,6 @@
 :root{
   --bc-txgrayc:#736E6E;
+  --bc-grayc:#A19C9C;
 }
 .navbar-light {
   background-color: #a2c600;
@@ -78,6 +79,9 @@ body {
   /* Margin bottom by footer height */
   margin-bottom: 6rem;
   margin-top: 4rem;
+}
+.bc-grayc{
+  background-color: var(--bc-grayc);
 }
 .footer {
   position: absolute;

@@ -13,7 +13,7 @@
       <div class="card py-lg-3 px-lg-3">
         <img class="card-img-top" src="../../resources/images/img2.jpg" alt="Card image cap">
         <br>
-        <div class="card-body bg-secondary">
+        <div class="card-body bc-grayc">
           <h5 class="card-title text-white">Centro de acopio</h5>
           <ul>
             <li>Dirección:</li>
@@ -28,7 +28,7 @@
       <div class="card py-lg-3 px-lg-3">
         <img class="card-img-top" src="../../resources/images/img2.jpg" alt="Card image cap">
         <br>
-        <div class="card-body bg-secondary">
+        <div class="card-body bc-grayc">
           <h5 class="card-title text-white">Centro de acopio</h5>
           <ul>
             <li>Dirección:</li>
@@ -43,7 +43,7 @@
       <div class="card py-lg-3 px-lg-3">
         <img class="card-img-top" src="../../resources/images/img2.jpg" alt="Card image cap">
         <br>
-        <div class="card-body bg-secondary">
+        <div class="card-body bc-grayc">
           <h5 class="card-title text-white">Centro de acopio</h5>
           <ul>
             <li>Dirección:</li>
@@ -62,7 +62,7 @@
       <div class="card py-lg-3 px-lg-3">
         <img class="card-img-top" src="../../resources/images/img2.jpg" alt="Card image cap">
         <br>
-        <div class="card-body bg-secondary">
+        <div class="card-body bc-grayc">
           <h5 class="card-title text-white">Centro de acopio</h5>
           <ul>
             <li>Dirección:</li>
@@ -77,7 +77,7 @@
       <div class="card py-lg-3 px-lg-3">
         <img class="card-img-top" src="../../resources/images/img2.jpg" alt="Card image cap">
         <br>
-        <div class="card-body bg-secondary">
+        <div class="card-body bc-grayc">
           <h5 class="card-title text-white">Centro de acopio</h5>
           <ul>
             <li>Dirección:</li>
@@ -92,7 +92,7 @@
       <div class="card py-lg-3 px-lg-3">
         <img class="card-img-top" src="../../resources/images/img2.jpg" alt="Card image cap">
         <br>
-        <div class="card-body bg-secondary">
+        <div class="card-body bc-grayc">
           <h5 class="card-title text-white">Centro de acopio</h5>
           <ul>
             <li>Dirección:</li>

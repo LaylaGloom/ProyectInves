@@ -1,4 +1,5 @@
 <section class="container mt-lg-4 mb-lg-5">
+  <hr>
   <div class="row mb-lg-1">
     <div class="col-md-4">
       <div class="card">
